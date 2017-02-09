@@ -1,0 +1,7 @@
+D:\_Development\Students\Tests\Tests_Thrends\Tests_Thrends\bin\Debug\Tests_Thrends.exe.config
+D:\_Development\Students\Tests\Tests_Thrends\Tests_Thrends\bin\Debug\Tests_Thrends.exe
+D:\_Development\Students\Tests\Tests_Thrends\Tests_Thrends\bin\Debug\Tests_Thrends.pdb
+D:\_Development\Students\Tests\Tests_Thrends\Tests_Thrends\obj\Debug\Tests_Thrends.exe
+D:\_Development\Students\Tests\Tests_Thrends\Tests_Thrends\obj\Debug\Tests_Thrends.pdb
+D:\_Development\Students\Tests\Tests_Thrends\Tests_Thrends\bin\Debug\Tests_Thrends.exe.CodeAnalysisLog.xml
+D:\_Development\Students\Tests\Tests_Thrends\Tests_Thrends\bin\Debug\Tests_Thrends.exe.lastcodeanalysissucceeded
